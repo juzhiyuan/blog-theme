@@ -1,5 +1,5 @@
-/**
+/*
 
 !.gitignore
-!twentyseventeen/.keep
-!twentyseventeen-child/.keep
+!/twentyseventeen
+!/twentyseventeen-child
