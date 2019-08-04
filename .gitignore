@@ -1,1 +1,5 @@
-index.php
+/**
+
+!.gitignore
+!twentyseventeen/.keep
+!twentyseventeen-child/.keep
