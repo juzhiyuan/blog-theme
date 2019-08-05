@@ -1,1 +1,3 @@
-<?php?>
+<?php
+  // functions for child theme
+?>
