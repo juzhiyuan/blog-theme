@@ -9,3 +9,13 @@ Version:        0.0.1
 
 @import url("../twentyseventeen/style.css");
 
+/* 调整文章内容与边栏宽度 */
+@media screen and (min-width: 48em) {
+  .has-sidebar:not(.error404) #primary {
+    width: 70%;
+  }
+
+  .has-sidebar #secondary {
+    width: 30%;
+  }
+}
