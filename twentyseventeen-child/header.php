@@ -14,6 +14,12 @@
 </head>
 
 <body <?php body_class(); ?>>
+<script>
+// 阿里云 ARMS
+!(function(c,b,d,a){c[a]||(c[a]={});c[a].config={pid:"gegef8fn1m@58be164eebe48ed",appType:"web",imgUrl:"https://arms-retcode.aliyuncs.com/r.png?",sendResource:true,enableLinkTrace:true,behavior:true,useFmp:true};
+with(b)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("crossorigin","",src=d)
+})(window,document,"https://retcode.alicdn.com/retcode/bl.js","__bl");
+</script>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
